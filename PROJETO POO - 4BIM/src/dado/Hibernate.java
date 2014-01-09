@@ -1,4 +1,4 @@
-package dados;
+package dado;
 
 public class Hibernate {
 
